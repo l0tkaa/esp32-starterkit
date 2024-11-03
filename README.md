@@ -44,6 +44,7 @@ This is a basic project to make an LED blink using the ESP32.
 - **Code**: [LED Blink Code](./code/led_blink.ino)
 - **Demo**: 
 <img src="./imgs/ledblinkblue.jpg" alt="LED Blink Demo" width="200"/>
+
 ---
 
 ### 2. Button Controlled LED
